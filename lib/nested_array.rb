@@ -41,7 +41,7 @@ def matrix_lookup(matrix, row, column)
     ["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"],
     ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]
   ]
-  
+
   return matrix_lookup = matrix[row][column]
 
   # Given any matrix (array of arrays), a row index and a column index,
